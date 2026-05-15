@@ -1,5 +1,5 @@
-# Deep-Learning-6G7V0024
 # Concrete Crack Detection using Deep Learning
+## Deep-Learning-6G7V0024
 
 This project was built as part of my Deep Learning module (6G7V0024) at Manchester Metropolitan University. The idea was pretty straightforward - can we train a model to look at a photo of a concrete surface and tell whether it has a crack or not?
 
