@@ -52,8 +52,8 @@ data/
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/YOUR_USERNAME/concrete-crack-detection.git
-cd concrete-crack-detection
+git clone https://github.com/pk12bhalla/Deep-Learning-6G7V0024.git
+cd Deep-Learning-6G7V0024
 ```
 
 **2. Install dependencies**
