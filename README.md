@@ -71,7 +71,7 @@ path = kagglehub.dataset_download("arunrk7/surface-crack-detection")
 
 **4. Open and run the notebook**
 ```bash
-jupyter notebook PrashantKumarBhalla_25948685.ipynb
+jupyter notebook PrashantKumarBhalla_25948685_Notebook.ipynb
 ```
 
 Run all cells from top to bottom. Training takes around 20-30 minutes on a GPU (I used Google Colab with a T4).
